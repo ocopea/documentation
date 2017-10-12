@@ -57,6 +57,8 @@ improve existing processes and create new ones.
 
 **Learn More**
 
+* [Managing project and tool permissions TBD](tbd.md)
+* [Managing memberships TBD](tbd.md)
 * [Legal processes TBD](tbd.md)
 
 ---
