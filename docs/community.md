@@ -25,8 +25,8 @@ tracking system, helps new users and recommends the project to others.
 **Learn More** 
 
 * [Product Documentation TBD](tbd.md)
-* [Project issue tracker and filing process](contributing.md#issues-and-guidance)
-* [Communication channels](contributing.md#support-channel)
+* [Communication channels](support.md#Communication)
+* [Project issue tracker and filing process](support.md#Issues)
 
 ## Developer
 Developers contribute changes to the project (such as bug fixes, enhancements,
