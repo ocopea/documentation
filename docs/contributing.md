@@ -24,7 +24,8 @@ Figure below describes at a high level how this can be accomplished in an agile 
 ### Architecture
 
 Before starting on a new feature to avoid a lot of confusion during execution, we start with describing a high level architecture.
-Note that even the architecture work products can be delivered in increments by keeping in mind few simple principles:
+Note that even the architecture work products can be delivered in increments by keeping in mind a few simple principles:
+
 * Architect/Design for Orthogonality
     * Seperation of concerns leading to well defined APIs
     * Enables working in parallel
@@ -35,11 +36,13 @@ Note that even the architecture work products can be delivered in increments by 
 
 ### Design-Document-Test (DDT<->TDD)
 
-To ensure the system is delivering what it was required and architected to deliver, it is recommended that each functional increment introduces a small:
-* design change (such as an API),
+To ensure the system is delivering what it was required and architected to deliver, it is recommended that each functional increment
+
+* introduces a small design change (such as an API),
 * provides user facing documentation on how to build, install and use, and
-* adds tests (TDD) to validate the functionality being developed in that increment. One can run tests (unit test and
-functional test) locally. Tests are repeatable and automated.
+* adds tests (TDD) to validate the functionality being developed in that increment.
+
+One can run tests (unit test and functional test) locally. Tests are repeatable and automated.
 
 ## API First
 
