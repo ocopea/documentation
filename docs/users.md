@@ -16,10 +16,11 @@ specific dataset.
 * [Ocopea Cloud Native Developer Toolkit](https://ocopea.github.io/)
 * [Ocopea Architecture](architecture.md)
 
-# Install Guide
+# Product Documentation
 
-* [Installation guide TBD](tbd.md)
-* [How to Use TBD](tbd.md)
+* [Installing Ocopea on Kubernetes](https://github.com/ocopea/kubernetes)
+* [Installing Ocopea on Cloud Foundry](https://github.com/ocopea/cloudfoundry)
+* [How to Use Ocopea](how_to_use.md)
 
 # Troubleshooting Guide
 
@@ -31,5 +32,5 @@ specific dataset.
 
 # Release Notes
 
-* [Release Notes, including limitations](tbd.md)
+* [Release Notes, including limitations](releasenotes.md)
 
