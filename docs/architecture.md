@@ -1,4 +1,4 @@
 # Architecture
 
-Ocopea architecture
+[Ocopea architecture](https://ocopea.github.io/docs.html)
 

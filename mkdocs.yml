@@ -1,0 +1,17 @@
+site_name: Ocopea
+pages:
+    - User Guide: users.md
+    - Community: community.md
+    - Contributing: contributing.md
+    - Project Guidelines: guidelines.md
+    - How To Use: how_to_use.md
+    - Installation: installation.md
+    - Support: support.md
+    - Legal: legal.md
+    - Maintainers' Corner: maintainers_corner.md
+    - Release Notes: releasenotes.md
+    - Product Documentation: productdocs.md
+    - Troubleshooting: troubleshooting.md
+    - Architecture: architecture.md
+
+theme: readthedocs

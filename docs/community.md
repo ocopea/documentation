@@ -34,7 +34,7 @@ questions posed by the community against the component/project.
 
 **Learn More**
 
-* [Developer guide (includes how to contribute and develop code) TBD link to contributing](tbd.md)
+* [Ocopea Developer Guide](contributing.md)
 
 ## Reviewer
 A Reviewer has been contributing to a component significantly and holds a
@@ -44,7 +44,7 @@ to the project backlog and can vote on backlog item priority.
 
 **Learn More**
 
-* [Becoming a reviewer TBD](tbd.md)
+* [Becoming a reviewer TBD] 
 
 ## Maintainer
 Maintainers are responsible for the strategic interests of the component and
@@ -55,9 +55,8 @@ improve existing processes and create new ones.
 
 **Learn More**
 
-* [Managing project and tool permissions TBD](tbd.md)
-* [Managing memberships TBD](tbd.md)
-* [Legal processes TBD](tbd.md)
+* [Managing project and tool permissions and memberships](maintainers_corner.md)
+* [Legal processes](legal.md)
 
 ---
 
