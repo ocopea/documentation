@@ -24,7 +24,7 @@ specific dataset.
 
 # Troubleshooting Guide
 
-* [Troubleshooting TBD](tbd.md)
+* [Troubleshooting Ocopea](troubleshooting.md)
 
 # Support
 

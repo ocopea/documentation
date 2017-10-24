@@ -4,7 +4,7 @@
 
 The Ocopea Slack channel is the location for discussions covering both contributing and using information.
 
-* [Slack Channel](tbd.md)
+* [Slack Channel](https://slack.com)
 
 
 ## Issues

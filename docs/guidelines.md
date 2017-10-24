@@ -14,7 +14,7 @@ Driven Development tests are developed before the code.  No code is to be
 delivered without having tests that validate the code.
 
 ## Documentation
-Code has user facing documentation on how to build, install and use.
+Code has user-facing documentation on how to build, install and use.
 Documentation is delivered with code.
 
 ## More

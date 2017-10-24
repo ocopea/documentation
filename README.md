@@ -19,7 +19,7 @@ Third party software packages are published under their own licenses.
 **Learn More**
 
 * [Ocopea LICENSE](LICENSE)
-* [Third party packages](tbd.md)
+* [Third party packages](Third_party_packages)
 
 ---
 

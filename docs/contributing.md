@@ -13,11 +13,12 @@ more complete.
 
 ## T-Model
 
-The T-Model philosphy is a condensed version of few core agile practices that help:
+The T-Model philosphy is a condensed version of a few core Agile practices that help:
+
 * deliver small increments of work in progress, while
 * maintaining known good state
 
-Figure below describes at a high level how this can be accomplished in an agile development environment:
+The figure below describes at a high level how this can be accomplished in an Agile development environment:
 
 ![Alt text](T-model.jpg)
 
@@ -27,11 +28,11 @@ Before starting on a new feature to avoid a lot of confusion during execution, w
 Note that even the architecture work products can be delivered in increments by keeping in mind a few simple principles:
 
 * Architect/Design for Orthogonality
-    * Seperation of concerns leading to well defined APIs
-    * Enables working in parallel
+    * Separation of concerns leading to well defined APIs
+    * Enable working in parallel
 * Architect/Design for Testability
 * Always ask "Is there another way?"
-* Follow the DRY (Don't Repeat Yourself) software development principle
+* Follow the **DRY** (Don't Repeat Yourself) software development principle
 * Aim for simplicity
 
 ### Design-Document-Test (DDT<->TDD)
@@ -46,11 +47,11 @@ One can run tests (unit test and functional test) locally. Tests are repeatable 
 
 ## API First
 
-A cloud native application may constitute of multiple microservices.
+A cloud native application may consist of multiple microservices.
 Different teams may develop services within the application or external groups may use the API to interact with the application.
-Hence it is imperative that the contributors have an API first mentality.
+Hence, it is imperative that the contributors have an API first mentality.
 
-In general it is expected APIs are well defined, understood and documented.  Use tools to separate interface and implementation.
+In general, it is expected APIs are well defined, understood and documented.  Use tools to separate interface and implementation.
 This project has used Swagger OpenAPI standard and the tools around it to execute on its API first strategy.
 
 **Learn More** 
