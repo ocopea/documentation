@@ -64,9 +64,12 @@ This project has used Swagger OpenAPI standard and the tools around it to execut
 Code is covered by straightforward CI pipeline that includes repeatable steps
 such as build, (unit) test and deliver to artifactory.
 
-## Disclaimer
+---
 
-TBD
+# Support Disclaimer
+
+The code and documentation are released with no warranties or SLAs and are
+intended to be supported through a community driven process.
 
 ---
 
