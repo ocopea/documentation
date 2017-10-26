@@ -24,7 +24,7 @@ tracking system, helps new users and recommends the project to others.
 
 **Learn More** 
 
-* [Ocopea User Guide](users.md), including communication channels and issue tracking
+* [Ocopea User Guide](users.md), including support info (communication channels and issue tracking)
 
 ## Developer
 Developers contribute changes to the project (such as bug fixes, enhancements,
