@@ -22,7 +22,7 @@ community and share their experience (videos, blogs etc.) on their usage of the
 software.  A User enters a bug report or enhancement request into the project's
 tracking system, helps new users and recommends the project to others.
 
-**Learn More** 
+**Learn More**
 
 * [Ocopea User Guide](users.md), including support info (communication channels and issue tracking)
 
@@ -44,7 +44,7 @@ to the project backlog and can vote on backlog item priority.
 
 **Learn More**
 
-* [Becoming a reviewer TBD] 
+* [Becoming a reviewer TBD]
 
 ## Maintainer
 Maintainers are responsible for the strategic interests of the component and

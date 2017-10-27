@@ -54,7 +54,7 @@ Hence, it is imperative that the contributors have an API first mentality.
 In general, it is expected APIs are well defined, understood and documented.  Use tools to separate interface and implementation.
 This project has used Swagger OpenAPI standard and the tools around it to execute on its API first strategy.
 
-**Learn More** 
+**Learn More**
 
 * [API First Strategy](https://www.oreilly.com/ideas/an-api-first-approach-for-cloud-native-app-development)
 * [Swagger and API first](https://swagger.io/api-first-approach-with-swagger/)
