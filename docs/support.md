@@ -9,7 +9,7 @@ The Ocopea Slack channel is the location for discussions covering both contribut
 
 ## Issues
 
-* deciding which project 
+* deciding which project
 * how to file a bug
 * template
 

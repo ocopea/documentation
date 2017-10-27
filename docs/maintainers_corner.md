@@ -28,7 +28,7 @@ Pull Requests involving code modifications will be accepted after maintainers ha
 
 ### Checklist for new files
 
-In addition to the above requirements, there are additional steps needed before a PR can be accepted. 
+In addition to the above requirements, there are additional steps needed before a PR can be accepted.
 Examples of new files could include, for example, source code or an Open Source (vendor) dependency.
 
 #### New source code modules
@@ -48,7 +48,7 @@ Non-Dell EMC authors:
 
 These additions require some coordination across Ocopea repositories:
 
-* Have been reviewed according to Dell Technologies formal process 
+* Have been reviewed according to Dell Technologies formal process
 [https://inside.dell.com/docs/DOC-106365](https://inside.dell.com/docs/DOC-106365)
 * Maintainers will ensure the
 [Third_party_license](https://github.com/ocopea/documentation/blob/master/Third_party_license)
@@ -95,12 +95,12 @@ Some of the changes from default include:
 
 The documentation project has a webhook enabled for
 [ReadTheDocs](http://readthedocs.io).  This webhook initiates the rebuild of
-documentation there on every push to master. 
+documentation there on every push to master.
 
 The webhook is created from an authorized account on ReadTheDocs, which on
 project import redirects to github sign-on to create a trusted link.  Authorized
 members for ReadTheDocs project is managed on that site, and ReadTheDocs member
-accounts can be added or removed.  
+accounts can be added or removed.
 
 The webhook can be viewed and managed from
 [github](https://github.com/ocopea/documentation/settings/hooks/17174029),
