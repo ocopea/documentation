@@ -20,7 +20,7 @@ The T-Model philosphy is a condensed version of a few core Agile practices that 
 
 The figure below describes at a high level how this can be accomplished in an Agile development environment:
 
-![Alt text](T-model.jpg)
+![Alt text](img/T-model.jpg)
 
 ### Architecture
 

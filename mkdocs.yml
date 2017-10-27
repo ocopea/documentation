@@ -1,17 +1,25 @@
 site_name: Ocopea
+site_description: 'Promoting app-copy for Cloud Native Developers'
+copyright: 'Copyright &copy; 2017 Dell Inc. or its subsidiaries. All Rights Reserved.'
+
 pages:
     - Home: index.md
-    - User Guide: users.md
-    - Community: community.md
-    - Contributing: contributing.md
-    - Project Guidelines: guidelines.md
-    - How To Use: how_to_use.md
-    - Installation: installation.md
-    - Support: support.md
-    - Legal: legal.md
-    - Maintainers' Corner: maintainers_corner.md
-    - Release Notes: releasenotes.md
-    - Troubleshooting: troubleshooting.md
-    - Architecture: architecture.md
+    - Users' Corner:
+        - User Guide: users.md
+        - Architecture: architecture.md
+        - Troubleshooting: troubleshooting.md
+        - Release Notes: releasenotes.md
+        - Community: community.md
+    - Developers' Corner:
+        - Contributing: contributing.md
+        - Project Guidelines: guidelines.md
+        - Maintainers' Corner: maintainers_corner.md
+        - Community: community.md
+    - About:
+        - Support: support.md
+        - Legal: legal.md
+        - Community: community.md
+    - ' ': how_to_use.md
 
 theme: readthedocs
+
