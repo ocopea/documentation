@@ -14,7 +14,7 @@ The Ocopea project makes use of these toolsets:
 
 * [Github](maintainers_corner.md#github)
 * [Bintray](maintainers_corner.md#bintray)
-* [Dockerhub](maintainers_corner.md#dockerhub)
+* [Docker Hub](maintainers_corner.md#docker-hub)
 * [Travis CI](maintainers_corner.md#travis-ci)
 * [ReadTheDocs](maintainers_corner.md#readthedocs)
 
@@ -76,7 +76,8 @@ of github project settings.
 Some of the changes from default include:
 
 * Options
-    * Only enable "Allow rebase merging"
+    * Enable "Allow rebase merging"
+    * Others options are disabled
 * Branches
     * Default branch is master
     * Protected branch includes master
@@ -84,7 +85,7 @@ Some of the changes from default include:
 ## Bintray
 
 
-## Dockerhub
+## Docker Hub
 
 
 ## Travis CI
@@ -92,6 +93,19 @@ Some of the changes from default include:
 
 ## ReadTheDocs
 
+The documentation project has a webhook enabled for
+[ReadTheDocs](http://readthedocs.io).  This webhook initiates the rebuild of
+documentation there on every push to master. 
+
+The webhook is created from an authorized account on ReadTheDocs, which on
+project import redirects to github sign-on to create a trusted link.  Authorized
+members for ReadTheDocs project is managed on that site, and ReadTheDocs member
+accounts can be added or removed.  
+
+The webhook can be viewed and managed from
+[github](https://github.com/ocopea/documentation/settings/hooks/17174029),
+including temporary or permanent deactivation.  The set of events that trigger
+the webhook can be refined there as needed.
 
 ---
 

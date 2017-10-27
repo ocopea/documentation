@@ -1,6 +1,6 @@
 # Ocopea
 
-![logo](e-LOGO_big.png)
+![logo](img/e-LOGO_big.png)
 
 Home page for Ocopea documentation
 
