@@ -55,8 +55,7 @@ improve existing processes and create new ones.
 
 **Learn More**
 
-* [Managing project and tool permissions and memberships](maintainers_corner.md)
-* [Legal processes](legal.md)
+* [Managing projects, tool permissions and memberships](maintainers_corner.md)
 
 ---
 
