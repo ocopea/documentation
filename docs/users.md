@@ -28,7 +28,7 @@ specific dataset.
 
 # Support
 
-* [Support](support.md)
+* [Support, including communications and issue tracking](support.md)
 
 # Release Notes
 

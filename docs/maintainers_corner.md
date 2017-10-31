@@ -33,16 +33,16 @@ Examples of new files could include, for example, source code or an Open Source 
 
 #### New source code modules
 
+Non-Dell EMC authors:
+
+* See the Dell EMC {code} [Contributor Agreement](https://github.com/codedellemc/codedellemc.github.io/wiki/Contributor-Agreement).
+
 Dell EMC authors:
 
 * New files have the Dell EMC Copyright statement applied in a comment to the
 top of the source code file(s).
 
     ```Copyright (c) 2017 Dell Inc. or its subsidiaries. All Rights Reserved.```
-
-Non-Dell EMC authors:
-
-* See the Dell EMC {code} [Contributor Agreement](https://github.com/codedellemc/codedellemc.github.io/wiki/Contributor-Agreement).
 
 #### New vendor dependencies
 
@@ -113,7 +113,7 @@ the webhook can be refined there as needed.
 
 When a Maintainer is added to a project, use the following checklist:
 
-* Encourage adding 2FA to the individual's account.  _Currently not a strict requirement_
+* Individual's account has 2FA enabled
 * Set individual as owner of the project
-* Update OWNERS file in the project
+* Update OWNERS file in the project to include the new individual
 
