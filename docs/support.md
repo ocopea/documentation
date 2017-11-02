@@ -31,17 +31,37 @@ Follow Ocopea on Twitter
 ### How to file
 
 Here are sample templates that will help make it easier to triage, assign and
-ultimately get resolved. Cut and paste one of these into the Ocopea issue
-tracker and fill it out.
+ultimately get resolved. Cut and paste one of these into the Ocopea component's
+issue tracker and fill it out.
 
 ### Templates
 
 ```
 Bug Report
+
+Expected Behavior:
+
+Actual Behavior:
+
+Steps to Reproduce (minimum required for the issue to happen):
+
+Environment/Configuration (provide configuration files or list of items):
+
+Logs:
+
+Additional information:
 ```
 
 ```
 Enhancement Request
+
+Desired Behavior/Feature:
+
+Current State:
+
+Components Involved:
+
+Additional Information:
 ```
 
 ### Trackers
