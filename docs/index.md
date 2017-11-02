@@ -2,7 +2,7 @@
 
 ![logo](img/e-LOGO_big.png)
 
-Home page for Ocopea documentation
+Ocopea Documentation Home
 
 ---
 

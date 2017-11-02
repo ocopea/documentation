@@ -94,8 +94,8 @@ Some of the changes from default include:
 ## ReadTheDocs
 
 The documentation project has a webhook enabled for
-[ReadTheDocs](http://readthedocs.io).  This webhook initiates the rebuild of
-documentation there on every push to master.
+[ReadTheDocs](http://ocopea-documentation.readthedocs.io/en/latest).  This
+webhook initiates the rebuild of documentation there on every push to master.
 
 The webhook is created from an authorized account on ReadTheDocs, which on
 project import redirects to github sign-on to create a trusted link.  Authorized
