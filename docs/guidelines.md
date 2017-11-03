@@ -27,7 +27,7 @@ those requirements before an approval.
 
 Developers will follow the [GitHub
 Flow](https://guides.github.com/introduction/flow/) model for PR submissions.
-Howeber, Ocopea branching is not allowed.  GitHub supports cloning a repository
+However, Ocopea branching is not allowed.  GitHub supports cloning a repository
 where changes can be made.  PRs are submitted from a cloned or forked
 repository, not a branch of the project.  
 
