@@ -77,7 +77,7 @@ the following before approving:
 
 Compare to existing repositories (such as
 [pcf-fs-crb](https://github.com/ocopea/pcf-fs-crb/settings)) for the full set
-of github project settings.
+of GitHub project settings.
 
 Some of the changes from default include:
 
@@ -104,7 +104,7 @@ The documentation project has a webhook enabled for
 webhook initiates the rebuild of documentation there on every push to master.
 
 The webhook is created from an authorized account on ReadTheDocs, which on
-project import redirects to github sign-on to create a trusted link.  Authorized
+project import redirects to GitHub sign-on to create a trusted link.  Authorized
 members for ReadTheDocs project is managed on that site, and ReadTheDocs member
 accounts can be added or removed.
 

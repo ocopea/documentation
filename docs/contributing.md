@@ -83,7 +83,7 @@ High level processes are in place to implement the software development principl
 
 # Source Code
 
-[Ocopea on github](https://github.com/ocopea)
+[Ocopea on GitHub](https://github.com/ocopea)
 
 ---
 

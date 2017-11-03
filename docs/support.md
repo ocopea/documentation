@@ -3,7 +3,7 @@
 If you have an issue with Ocopea, and the documentation does not provide a
 resolution, the Slack channel is a good forum to connect with the Ocopea
 community. 
-For creating and tracking issue reports, file on github tracker.
+For creating and tracking issue reports, file on GitHub tracker.
 
 ---
 
@@ -15,7 +15,7 @@ The Ocopea Slack channel is the location for discussions covering both
 contributing and using information.  First request an invite to [{code}
 Community](https://thecodeteam.com/community/). Once on Slack, browse Channels
 and search for the **ocopea** channel.  There is also an **ocopea_github** channel
-for monitoring automatic notifications from github.
+for monitoring automatic notifications from GitHub.
 
 ### Twitter
 
