@@ -20,6 +20,12 @@ The Ocopea project makes use of these toolsets:
 
 ## Github
 
+Links to sections below
+
+* [File modification](maintainers_corner.md#checklist-for-modifications-to-existing-files)
+* [New file](maintainers_corner.md#checklist-for-new-files)
+* [New repository](maintainers_corner.md#checklist-for-new-repository)
+
 ### Checklist for modifications to existing files
 
 Pull Requests involving code modifications will be accepted after maintainers have ensured the following:
