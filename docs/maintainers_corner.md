@@ -12,13 +12,19 @@ other requirements of this project.
 
 The Ocopea project makes use of these toolsets:
 
-* [Github](maintainers_corner.md#github)
+* [GitHub](maintainers_corner.md#github)
 * [Bintray](maintainers_corner.md#bintray)
 * [Docker Hub](maintainers_corner.md#docker-hub)
 * [Travis CI](maintainers_corner.md#travis-ci)
 * [ReadTheDocs](maintainers_corner.md#readthedocs)
 
-## Github
+## GitHub
+
+The Ocopea project is licensed under the MIT license.  We would prefer that all
+contributions be licensed under a similar license.  Please see {code} policies
+[here](https://github.com/codedellemc/codedellemc.github.io/wiki/How-to-contribute-to-%7Bcode%7D-and-add-your-project).
+Additional information for this project is presented below.  If you still have
+questions, contact <mailto:P_Jovanovic@Dell.com>.
 
 Links to sections below
 
@@ -55,7 +61,6 @@ top of the source code file(s).
 These additions require some coordination across Ocopea repositories:
 
 * Have been reviewed according to Dell Technologies formal process
-[https://inside.dell.com/docs/DOC-106365](https://inside.dell.com/docs/DOC-106365)
 * Maintainers will ensure the
 [Third_party_license](https://github.com/ocopea/documentation/blob/master/Third_party_license)
 file is updated to include copyright information for added dependencies
@@ -109,7 +114,7 @@ members for ReadTheDocs project is managed on that site, and ReadTheDocs member
 accounts can be added or removed.
 
 The webhook can be viewed and managed from
-[github](https://github.com/ocopea/documentation/settings/hooks/17174029),
+[GitHub](https://github.com/ocopea/documentation/settings/hooks/17174029),
 including temporary or permanent deactivation.  The set of events that trigger
 the webhook can be refined there as needed.
 
