@@ -1,3 +1,5 @@
+<img src="img/e-LOGO_big.png" alt="ocopea_logo" width="200px"/>
+
 # How To Use
 
 Some examples of Ocopea Use Cases via UI are shown.
@@ -7,7 +9,7 @@ Some examples of Ocopea Use Cases via UI are shown.
  2. Click on "SAVE AS".
  3. In the "Create Image" dialog enter name and tag.
  4. Click on "Save".
- 5. To view the images click on the gear button on top right corner, and select "Saved Images". 
+ 5. To view the images click on the gear button on top right corner, and select "Saved Images".
 
 ## How to file a bug
 
@@ -28,3 +30,4 @@ Some examples of Ocopea Use Cases via UI are shown.
 	3. Select service plans by clicking on the service.
 	4. Click run.
 
+<img src="img/ocopea-admin.png" alt="ocopea_admin" width="200px"/>
