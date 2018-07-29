@@ -1,4 +1,4 @@
-<img src="img/e-LOGO_big.png" alt="ocopea_logo" width="200px"/>
+![ocopea_logo](img/e-LOGO_big.png)
 
 # How To Use
 
@@ -30,4 +30,4 @@ Some examples of Ocopea Use Cases via UI are shown.
 	3. Select service plans by clicking on the service.
 	4. Click run.
 
-<img src="img/ocopea-admin.png" alt="ocopea_admin" width="200px"/>
+![ocopea_admin_logo](img/ocopea-admin.png)
